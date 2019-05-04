@@ -1,0 +1,24 @@
+{
+  "name": "novastar-vx4s",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "NovaStar" ],
+	"manufacturer": "NovaStar",
+	"product": "VX4S",
+	"shortname": "VX4S",
+	"description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-novastar-vx4s.git"
+  },
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-novastar-vx4s/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-novastar-vx4s#readme"
+}
