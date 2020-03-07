@@ -2,7 +2,7 @@
   "name": "novastar-vx4s",
   "version": "1.0.0",
 	"api_version": "1.0.0",
-	"keywords": [ "NovaStar" ],
+	"keywords": [ "LED Processing" ],
 	"manufacturer": "NovaStar",
 	"product": "VX4S",
 	"shortname": "VX4S",
